@@ -505,7 +505,7 @@ const Users = [
   },
   {
     title: 'MediaMachine',
-    description: '',
+    description: 'Infrastructure for User-Generated Video content',
     preview: require('./showcase/mediamachine.png'),
     website: 'https://mediamachine.io/',
     source: null,
