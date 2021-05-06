@@ -504,6 +504,14 @@ const Users = [
     tags: ['opensource'],
   },
   {
+    title: 'MediaMachine',
+    description: '',
+    preview: require('./showcase/mediamachine.png'),
+    website: 'https://mediamachine.io/',
+    source: null,
+    tags: ['product'],
+  },
+  {
     title: 'Meli',
     description: 'Platform to deploy static sites, frontend applications and hosted forms',
     preview: require('./showcase/meli.png'),
